@@ -1,6 +1,6 @@
 # Ice cream themed landing page
 
-This is a quick, simple demo made in a Front-End workshop course to teach some basic concepts about React. It was made using Vite.
+This is a quick, simple demo made in a Full-Stack workshop course to teach some basic concepts about React. It was made using Vite.
 
 ![Gif showcasing state change functionality in the site.](https://github.com/facuCast123/ice-cream__landing/assets/131167515/bf15988b-bf80-4eee-b693-c35d44cc808c)
 
